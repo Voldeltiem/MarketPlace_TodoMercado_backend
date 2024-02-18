@@ -1,0 +1,22 @@
+Requerimientos
+
+1. Crear un nuevo proyecto de npm e instalar todas las dependencias que necesitarás.
+(1 Punto)COMPLETE
+
+2. Utilizar el paquete pg para gestionar la comunicación con la base de datos
+PostgreSQL.
+(3 Puntos)COMPLETE
+
+3. Implementar la autenticación y autorización de usuarios con JWT.
+(2 Puntos)COMPLETE
+
+4. Usar el paquete CORS para permitir las consultas de orígenes cruzados.
+(1 Punto)COMPLETE
+
+5. Utilizar middlewares para validar las credenciales o token en cabeceras en las rutas
+que aplique.COMPLETE
+(2 Puntos)
+
+6. Realizar test de por lo menos 4 rutas de la API REST comprobando los códigos de
+estados de diferentes escenarios.
+(1 Punto)

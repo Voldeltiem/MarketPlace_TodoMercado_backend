@@ -1,0 +1,122 @@
+[
+  {
+    "nombre": "Luke Skywalker",
+    "email": "luke.skywalker@starwars.com",
+    "password": "th3_F0rc3",
+    "telefono": 5551234567
+  },
+  {
+    "nombre": "Princess Leia",
+    "email": "princess.leia@starwars.com",
+    "password": "r3b3lPr1nc3ss",
+    "telefono": 5552345678
+  },
+  {
+    "nombre": "Han Solo",
+    "email": "han.solo@starwars.com",
+    "password": "mi11ennium_F4lcon",
+    "telefono": 5553456789
+  },
+  {
+    "nombre": "Darth Vader",
+    "email": "darth.vader@starwars.com",
+    "password": "darkS1d3",
+    "telefono": 5554567890
+  },
+  {
+    "nombre": "Yoda",
+    "email": "yoda@starwars.com",
+    "password": "wis3_0n3",
+    "telefono": 5555678901
+  },
+  {
+    "nombre": "Obi-Wan Kenobi",
+    "email": "obiwan.kenobi@starwars.com",
+    "password": "j3diM4st3r",
+    "telefono": 5556789012
+  },
+  {
+    "nombre": "Chewbacca",
+    "email": "chewbacca@starwars.com",
+    "password": "r0arRrr!",
+    "telefono": 5557890123
+  },
+  {
+    "nombre": "Padmé Amidala",
+    "email": "padme.amidala@starwars.com",
+    "password": "qu33n4m1d4l4",
+    "telefono": 5558901234
+  },
+  {
+    "nombre": "Emperor Palpatine",
+    "email": "emperor.palpatine@starwars.com",
+    "password": "darkS1d3_Rul3s",
+    "telefono": 5559012345
+  },
+  {
+    "nombre": "R2-D2",
+    "email": "r2d2@starwars.com",
+    "password": "b33pB00p",
+    "telefono": 5550123456
+  },
+  {
+    "nombre": "Rey",
+    "email": "rey@starwars.com",
+    "password": "th3LastJ3di",
+    "telefono": 5551239876
+  },
+  {
+    "nombre": "Finn",
+    "email": "finn@starwars.com",
+    "password": "str0mtr00p3r",
+    "telefono": 5552349876
+  },
+  {
+    "nombre": "Kylo Ren",
+    "email": "kylo.ren@starwars.com",
+    "password": "d4rkS1d3",
+    "telefono": 5553459876
+  },
+  {
+    "nombre": "Hans Solo Jr.",
+    "email": "hans.solojr@starwars.com",
+    "password": "likeF4ther",
+    "telefono": 5554569876
+  },
+  {
+    "nombre": "Mace Windu",
+    "email": "mace.windu@starwars.com",
+    "password": "windu_Purpl3L1ghts4b3r",
+    "telefono": 5555679876
+  },
+  {
+    "nombre": "Ahsoka Tano",
+    "email": "ahsoka.tano@starwars.com",
+    "password": "fulcrum",
+    "telefono": 5556789876
+  },
+  {
+    "nombre": "C-3PO",
+    "email": "c3po@starwars.com",
+    "password": "go1d3nR0b0t",
+    "telefono": 5557899876
+  },
+  {
+    "nombre": "General Hux",
+    "email": "general.hux@starwars.com",
+    "password": "first0rd3r",
+    "telefono": 5558909876
+  },
+  {
+    "nombre": "Lando Calrissian",
+    "email": "lando.calrissian@starwars.com",
+    "password": "cloudCity",
+    "telefono": 5559019876
+  },
+  {
+    "nombre": "Jabba the Hutt",
+    "email": "jabba.hutt@starwars.com",
+    "password": "huttGangsta",
+    "telefono": 5550129876
+  }
+]
